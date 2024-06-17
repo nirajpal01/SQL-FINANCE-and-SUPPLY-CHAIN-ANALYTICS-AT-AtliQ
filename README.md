@@ -2,33 +2,33 @@
 ** [Project PRESENTATION](https://www.linkedin.com/posts/niraj-pal-2802322a5_finance-and-supply-chain-analytics-activity-7206586547733766144-5de1?utm_source=share&utm_medium=member_desktop)
 
 
-## Project Overview
+## 🔶Project Overview
 
 This project focused on leveraging SQL to analyze datasets from AtliQ Hardware, aiming to derive actionable insights into sales trends, market dynamics, customer behaviors, and supply chain forecasting.
 
-### Problem Statement
+### 🔶Problem Statement
 
 To address performance bottlenecks caused by large Excel files, we utilized MySQL to transform raw data into valuable business insights.
 
-## Tools Used
+## 🔶Tools Used
 
 - **MySQL**: For querying and transforming raw data.
 - **Excel**: For data preprocessing and visualization.
 
-## Key Business Insights
+## 🔶Key Business Insights
 
 - **Sales Optimization**: Identified strategies to enhance sales performance.
 - **Growth Opportunities**: Uncovered new avenues for market expansion.
 - **Market Trend Analysis**: Provided in-depth analysis of prevailing market trends.
 - **Customer Behavior**: Gained insights into customer preferences and behaviors.
 
-## Key Project Achievements
+## 🔶Key Project Achievements
 
 - Developed comprehensive reports highlighting top-performing markets, products, and customer segments.
 - Analyzed net sales percentage share across various regions to guide strategic decisions.
 - Utilized insights to derive effective business strategies and enhance decision-making processes.
 
-## Learning Outcomes
+## 🔶Learning Outcomes
 
 This project has not only enhanced my technical skills in SQL and data analysis but also provided valuable insights into business analytics, contributing to the development of impactful business strategies.
 
