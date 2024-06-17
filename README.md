@@ -1,4 +1,5 @@
 # SQL Project: Finance and Supply Chain Analytics at AtliQ Hardware
+** [Project PRESENTATION](https://www.linkedin.com/posts/niraj-pal-2802322a5_finance-and-supply-chain-analytics-activity-7206586547733766144-5de1?utm_source=share&utm_medium=member_desktop)
 
 
 ## Project Overview
